@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @tinathinhinene
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Salut, moi c’est Tina !
 
-<!---
-tinathinhinene/tinathinhinene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Ingénieure en électrotechnique, spécialisée en réseaux haute tension.
+Passionnée par l’informatique et le développement logiciel et en reconversion vers le metier du concepteur dev d'application.
+
+Compétences & Outils
+
+Langages : Java, JavaScript, HTML, CSS
+
+Environnements : Eclipse
+
+Technologies : Docker
+
+Actuellement
+
+J’explore de nouveaux projets pour améliorer mes compétences en développement.
+
+ Collaboration
+
+Ouverte à collaborer sur des projets liés au développement web, Java.
